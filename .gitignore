@@ -2,3 +2,11 @@
 out
 build
 intellij-community
+
+# idea ignore
+.idea/
+*.ipr
+*.iml
+*.iws
+
+*.zip
